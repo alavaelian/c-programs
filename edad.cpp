@@ -4,9 +4,9 @@
 using namespace std;
 int main()
 {
-     setlocale(LC_CTYPE,"Spanish");//selecciona la configuracion en español permite presentar la latra ñ
+     setlocale(LC_CTYPE,"Spanish");//selecciona la configuracion en espaÃ±ol permite presentar la latra Ã±
     int anio_act,mes_act,dia_act,hora_act,anio_naci,mes_naci,dia_naci,hora_naci,anio;
-    cout<<"Ingrese el año actual>>";
+    cout<<"Ingrese el aÃ±o actual>>";
     cin>>anio_act;
     cout<<"Ingrese el mes  actual>>";
     cin>>mes_act;
@@ -14,7 +14,7 @@ int main()
     cin>>dia_act;
     cout<<"Ingrese la hora actual>>";
     cin>>hora_act;
-    cout<<"Ingrese el año de nacimiento>>";
+    cout<<"Ingrese el aÃ±o de nacimiento>>";
     cin>>anio_naci;
     cout<<"Ingrese el mes de nacimiento>>";
     cin>>mes_naci;
